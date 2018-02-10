@@ -1,2 +1,3 @@
-print ("goood buy world")
-print ("Goodby")
+print ("goood buy world");
+print ("Goodby");
+print("see you");
